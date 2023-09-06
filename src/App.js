@@ -1,8 +1,10 @@
 function MyButton() {
   return (
+    <a href="/someplace">
     <button>
       I'm a button
     </button>
+    </a>
   );
 }
 
